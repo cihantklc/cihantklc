@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cihantklc
-- 👀 I’m interested in ... cinema, philosophy, almost anything like professional learner
+- 👀 I’m interested in ... cinema, philosophy, almost anything like a professional learner
 - 🌱 I’m currently learning ... TDD, microservices, micro-frontends
 - 💞️ I’m looking to collaborate on ... Cazoo
 - 📫 How to reach me ... cihan.toklucu@cazoo.com
